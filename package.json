@@ -1,0 +1,13 @@
+{
+  "name": "uc-proxy",
+  "version": "1.0.0",
+  "description": "Fixed IP proxy for Unicommerce API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "axios": "^1.6.0"
+  }
+}
